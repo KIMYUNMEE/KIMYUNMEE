@@ -1,2 +1,2 @@
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-ornage?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 
